@@ -1,4 +1,4 @@
-# sharonasang
+# Hello 👋
 #  Hi, I'm Sharon Asang
 
 Computer Science – Information Science student at the University of Central Oklahoma
@@ -21,7 +21,7 @@ Passionate about building practical, user-focused applications
 - Python
 - C++
 - SQL
-- HTML
+  
 
 **Tools & Frameworks**
 - Git & GitHub
@@ -59,7 +59,7 @@ BST, AVL Trees, Graph Traversals, Sorting Algorithms
 
 ##  Let’s Connect
 - Email: sharonasang@gmail.com
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/sharon-asang
 
 ---
 
