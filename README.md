@@ -1,5 +1,5 @@
 # Hello 👋
-#  Hi, I'm Sharon Asang
+#  Sharon Asang
 
 Computer Science – Information Science student at the University of Central Oklahoma
 Aspiring Software Engineer / Backend Developer 
